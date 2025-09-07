@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.counter {
+  margin: 15px 0;
+}
+
+#errorMessage {
+  color: red;
+  font-weight: bold;
+}
